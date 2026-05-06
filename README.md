@@ -1,3 +1,4 @@
+
 git filter-repo is a versatile tool for rewriting history, which includes
 [capabilities I have not found anywhere
 else](#design-rationale-behind-filter-repo).  It roughly falls into the
